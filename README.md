@@ -5,4 +5,4 @@ The app focuses on core web development concepts such as DOM manipulation, event
 
 Building this project helped me strengthen my understanding of frontend development and problem-solving while creating a complete, functional web application from scratch.
 
-🔗 Live Demo:
+🔗 Live Demo: https://amansinghcloud.github.io/quiz-app/
